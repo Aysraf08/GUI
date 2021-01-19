@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Kalkulator.jnlp">
+    <information>
+        <title>Kalkulator</title>
+        <vendor>Aysraf08</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="Kalkulator.jar" size="4122" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="kalkulator.Kalkulator" name="Kalkulator"/>
+</jnlp>
+
